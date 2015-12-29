@@ -1,0 +1,61 @@
+source("quiz_02.R")
+
+[1] "reading: ../Samples/blogs.txt"
+[1] "reading: ../Samples/news.txt"
+[1] "reading: ../Samples/twitter.txt"
+            Search_Texts Count
+1         case of cheese     0
+2       case of pretzels     0
+3           case of beer    14	<<<
+4           case of soda     0
+5         mean the world    42	<<<
+6      mean the universe     2
+7          mean the most     6
+8          mean the best     0
+9    make me the saddest     0
+10  make me the happiest     6	<<<
+11 make me the smelliest     0
+12    make me the bluest     0
+
+[1] "reading: ../Samples/blogs.txt"
+[1] "reading: ../Samples/news.txt"
+[1] "reading: ../Samples/twitter.txt"
+                  Search_Texts Count
+1     struggling but the crowd     0
+2   struggling but the defense     0
+3   struggling but the players     0
+4  struggling but the referees     0
+5                 at the beach   116	<<<
+6                  at the mall    94
+7                at the movies    40
+8               at the grocery    60
+9             on my motorcycle     2
+10                 on my phone   142
+11                 on my horse     4
+12                   on my way   490	<<<
+13             quite some time    74	<<<
+14            quite some years     0
+15            quite some weeks     0
+16            quite some thing     0
+
+[1] "reading: ../Samples/blogs.txt"
+[1] "reading: ../Samples/news.txt"
+[1] "reading: ../Samples/twitter.txt"
+          Search_Texts Count
+1        but the crowd     8	<<<
+2      but the defense     2
+3      but the players     2
+4     but the referees     0
+5      his little eyes     0
+6      his little toes     0
+7   his little fingers     0
+8      his little ears     0
+9       during the bad     0
+10     during the hard     4	<<<
+11      during the sad     0
+12    during the worse     0
+13      must be asleep     2	<<<
+14 must be insensitive     0
+15      must be insane     0
+16     must be callous     0
+
